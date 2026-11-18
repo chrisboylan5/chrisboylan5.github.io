@@ -1,12 +1,6 @@
 body {
   font-family: Georgia, serif;
-  width: 100%;
-  max-width: 1520px;
-  margin-left: 10px;
-  margin-right: 10px;
   text-align: center;
-  padding-left: 10%;
-  padding-right: 10%;
 }
 
 .newheader {
