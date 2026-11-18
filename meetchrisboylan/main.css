@@ -1,24 +1,25 @@
 body {
   font-family: Georgia, serif;
-  max-width: 70rem;
+  width: 100%;
+  max-width: 1520px;
   margin-left: 10px;
   margin-right: 10px;
   text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 .newheader {
   background-color: #000e54;
   color: white;
+  font-family: "Oswald";
   font-size: 18px;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 10%;
   padding-right: 10%;
   margin-bottom: 15px;
-}
-
-img {
-  width: 50%;
+  width: 100%;
 }
 
 .caption {
@@ -29,6 +30,7 @@ img {
 }
 
 h1 {
+  font-family: "BBH Bogle";
   font-style: bold;
   font-size: 40px;
   text-align: center
@@ -37,10 +39,12 @@ h1 {
 h2 {
   font-size: 24px;
   margin-bottom: 1.5rem;
-  text-align: center
+  text-align: center;
+  font-family: "Oswald";
 }
 
 h3 {
+  font-family: "Oswald";
   font-size: 18px;
   margin-bottom: 1.5rem;
   text-align: center
@@ -48,6 +52,7 @@ h3 {
 
 p {
   font-size: 20px;
+  font-family: "Montserrat";
 }
 
 .otherimg {
@@ -64,4 +69,46 @@ li {
 
 ul {
   list-style-position: inside;
+  font-family: "Montserrat"
+}
+
+.bbh-bogle-regular {
+  font-family: "BBH Bogle", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+
+.oswald {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+nav {
+  font-family: "Oswald";
+  background-color: #000e54;
+  color: white;
+}
+
+.navbar {
+  background-color: #000e54;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #fff;
+}
+
+.navbar .nav-link:hover {
+  color: #cfd8ff;
 }
