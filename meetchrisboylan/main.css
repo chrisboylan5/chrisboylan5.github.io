@@ -107,6 +107,7 @@ navbar {
 .navbar .navbar-brand,
 .navbar .nav-link {
   color: #fff;
+  font-family: "BBH Bogle";
 }
 
 .navbar .nav-link:hover {
