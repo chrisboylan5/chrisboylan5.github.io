@@ -72,14 +72,14 @@ ul {
   font-family: "Montserrat"
 }
 
-.bbh-bogle-regular {
+bbh-bogle-regular {
   font-family: "BBH Bogle", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
 
 
-.montserrat {
+montserrat {
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
   font-weight: 200;
@@ -87,20 +87,20 @@ ul {
 }
 
 
-.oswald {
+oswald {
   font-family: "Oswald", sans-serif;
   font-optical-sizing: auto;
   font-weight: 200;
   font-style: normal;
 }
 
-.nav {
+nav {
   font-family: "Oswald";
   background-color: #000e54;
   color: white;
 }
 
-.navbar {
+navbar {
   background-color: #000e54;
 }
 
